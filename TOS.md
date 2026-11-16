@@ -1,37 +1,37 @@
-# Условия использования (Terms of Service)
+# Terms of Service
 
-**Последнее обновление:** 11/16/2026
+**Last updated:** November 16, 2025
 
-Эти Условия регулируют использование Discord-бота, который разрабатывает и поддерживает *vishnya_net_chereshnya** (далее «Разработчик», «мы»). Если вы добавляете Бота на сервер или пользуетесь его функциями, вы соглашаетесь с этими Условиями. Если вы с ними не согласны, не используйте Бота.
+These Terms of Service ("Terms") govern your use of all Discord bots developed and maintained by **vishnya_net_chereshnya** (the "Developer", "we", "us"). These bots are referred to as the "Bots". By adding any of the Bots to a server or using their features, you agree to these Terms. If you do not agree, do not use the Bots.
 
-## 1. Соответствие правилам Discord
-При использовании Бота вы обязаны соблюдать [Условия использования Discord](https://discord.com/terms) и [Правила сообщества Discord](https://discord.com/guidelines). Использовать Бота могут только лица, которым по этим правилам разрешено пользоваться Discord.
+## 1. Compliance with Discord's Rules
+When using the Bots, you must comply with the [Discord Terms of Service](https://discord.com/terms) and the [Discord Community Guidelines](https://discord.com/guidelines). You may only use the Bots if Discord's rules permit you to use Discord.
 
-## 2. Допустимое использование
-Запрещается:
-- использовать Бота в незаконных целях или для нарушения прав других лиц;
-- злоупотреблять командами: спамить, флудить или намеренно перегружать Бота;
-- искать и использовать уязвимости, ошибки или недокументированное поведение Бота, а также пытаться получить несанкционированный доступ к нему или его инфраструктуре;
-- выдавать себя за Разработчика или за Бота;
-- использовать Бота для рассылки вредоносного, оскорбительного или запрещённого контента.
+## 2. Acceptable Use
+You agree not to:
+- use the Bots for any unlawful purpose or to violate the rights of others;
+- abuse commands, including spamming, flooding, or deliberately overloading the Bots;
+- search for or exploit vulnerabilities, bugs, or undocumented behavior of the Bots, or attempt unauthorized access to them or their infrastructure;
+- impersonate the Developer or any of the Bots;
+- use the Bots to distribute malicious, abusive, or prohibited content.
 
-## 3. Ограничение доступа
-Мы вправе в любой момент и без предупреждения ограничить или запретить использование Бота отдельным пользователям или серверам, особенно если они нарушают эти Условия.
+## 3. Restriction of Access
+We may restrict or terminate access to any of the Bots for any user or server at any time, without notice. We are especially likely to do so if these Terms are violated.
 
-## 4. Данные
-Чтобы работать, Бот может обрабатывать минимально необходимые данные: ID пользователей, серверов и каналов, а также данные, которые вы вводите в командах. Подробности описаны в [Политике конфиденциальности](ССЫЛКА). Мы не продаём ваши данные и не передаём их третьим лицам, кроме случаев, когда этого требует закон.
+## 4. Data
+To operate, the Bots process only the data they need, as described in our [Privacy Policy](LINK). We do not sell your data. We do not share it with third parties unless the law requires us to.
 
-## 5. Доступность и изменения
-Бот предоставляется **«как есть»** и **«по мере доступности»**. Мы не гарантируем, что он будет работать бесперебойно, без ошибок и постоянно. Мы можем в любой момент изменить, приостановить или прекратить работу Бота или отдельных его функций.
+## 5. Availability and Changes
+The Bots are provided **"as is"** and **"as available"**. We do not guarantee that they will be uninterrupted, error-free, or always available. We may modify, suspend, or discontinue any of the Bots, or any of their features, at any time.
 
-## 6. Ограничение ответственности
-В максимальной степени, допустимой законом, Разработчик не несёт ответственности за прямой или косвенный ущерб, который возник из-за использования Бота или невозможности его использовать. Сюда относятся потеря данных, сбои в работе сервера и действия других пользователей.
+## 6. Limitation of Liability
+To the maximum extent permitted by law, the Developer is not liable for any direct or indirect damages arising from your use of the Bots, or from your inability to use them. This includes data loss, server disruptions, and the actions of other users.
 
-## 7. Интеллектуальная собственность
-Все права на код, название и оформление Бота принадлежат Разработчику, если не указано иное. Эти Условия не передают вам никаких прав на них.
+## 7. Intellectual Property
+Unless stated otherwise, all rights to the code, names, and branding of the Bots belong to the Developer. These Terms do not grant you any rights to them.
 
-## 8. Изменение Условий
-Мы можем обновлять эти Условия. Новая редакция вступает в силу с момента публикации. Если вы продолжаете пользоваться Ботом после изменений, это означает, что вы с ними согласны.
+## 8. Changes to These Terms
+We may update these Terms from time to time. A new version takes effect when it is published. If you continue to use the Bots after a change, you accept the updated Terms.
 
-## 9. Контакты
-По вопросам об этих Условиях пишите: **vishnya_net_chereshnya**.
+## 9. Contact
+If you have questions about these Terms, contact the Developer on Discord: **vishnya_net_chereshnya**.
